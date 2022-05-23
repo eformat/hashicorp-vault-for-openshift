@@ -355,3 +355,4 @@ MigrationBackup/
 .settings/
 .project
 .vscode/
+.idea/
